@@ -8,6 +8,7 @@ Softhouse task is an application that supplies data from url: [photos](https://j
 ## Softhouse task run and install
 ```
 cd <path_app>
+ npm install
  npm start
  ```
  
